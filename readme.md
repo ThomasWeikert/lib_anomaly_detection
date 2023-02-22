@@ -1,4 +1,7 @@
-## Introduction
+
+# Create syntethic data
+
+## Introduction "expected_rate.ipynb"
 This code simulates bookings data to create a test dataset for an analytics model. It generates random parameters and creates anomalies to mimic real-world booking data.
 
 ## Functionality
